@@ -1,4 +1,6 @@
-##💫 About Me:
+## 💫 About Me:
+
+Frontend Developer with 3 years of experience building web applications using React and Next.js. Focused on creating clean, performant, and user-friendly interfaces.
 
 <!--
 **abiralaz/abiralaz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
