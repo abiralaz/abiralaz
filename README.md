@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-Frontend Developer with 1.6 years of experience building web applications using React and Next.js. Focused on creating clean, performant, and user-friendly interfaces.
+Frontend Developer with 1.8 years of experience building web applications using React and Next.js. Focused on creating clean, performant, and user-friendly interfaces.
 
 ## 🌐 Connect with Me:
 
