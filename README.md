@@ -1,6 +1,6 @@
 ## 💫 About Me:
 
-Full-Stack Developer with nearly 2 years of exp. building responsive, scalable web applications using React, Next.js, and Node.js. Experienced in developing end-to-end features, optimizing performance, and delivering intuitive, user-focused interfaces while writing clean maintainable code.
+Full-Stack Developer with nearly 2 years of experience building responsive, scalable web applications using React, Next.js, and Node.js. Experienced in developing end-to-end features, optimizing performance, and delivering intuitive, user-focused interfaces while writing clean maintainable code.
 
 ## 🌐 Connect with Me:
 
